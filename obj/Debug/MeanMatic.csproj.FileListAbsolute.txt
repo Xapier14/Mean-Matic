@@ -1,0 +1,8 @@
+D:\Project Repositories\MeanMatic\bin\Debug\MeanMatic.exe
+D:\Project Repositories\MeanMatic\bin\Debug\MeanMatic.pdb
+D:\Project Repositories\MeanMatic\obj\Debug\MeanMatic.csprojAssemblyReference.cache
+D:\Project Repositories\MeanMatic\obj\Debug\MeanMatic.Form1.resources
+D:\Project Repositories\MeanMatic\obj\Debug\MeanMatic.Properties.Resources.resources
+D:\Project Repositories\MeanMatic\obj\Debug\MeanMatic.csproj.GenerateResource.cache
+D:\Project Repositories\MeanMatic\obj\Debug\MeanMatic.exe
+D:\Project Repositories\MeanMatic\obj\Debug\MeanMatic.pdb
